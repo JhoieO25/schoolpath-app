@@ -1,3 +1,11 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.5-green)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![PWA](https://img.shields.io/badge/AppType-PWA-lightgrey)
+![License](https://img.shields.io/badge/License-Academic-lightblue)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+
 # SchoolPath App
 
 **SchoolPath** is a modern, mobile-first school management system designed to simplify and digitize everyday school operations.  
