@@ -6,6 +6,12 @@
 ![License](https://img.shields.io/badge/License-Academic-lightblue)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/JhoieO25/schoolpath-app)
+![GitHub repo size](https://img.shields.io/github/repo-size/JhoieO25/schoolpath-app)
+![GitHub issues](https://img.shields.io/github/issues/JhoieO25/schoolpath-app)
+![GitHub forks](https://img.shields.io/github/forks/JhoieO25/schoolpath-app)
+![GitHub stars](https://img.shields.io/github/stars/JhoieO25/schoolpath-app)
+
 # SchoolPath App
 
 **SchoolPath** is a modern, mobile-first school management system designed to simplify and digitize everyday school operations.  
